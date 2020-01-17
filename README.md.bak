@@ -3,3 +3,9 @@ this is my git exercise repository
 我在本地修改了readme
 
 我再远程仓库做了修改
+
+<<<<<<< HEAD
+你在远程做了修改，但是我在本地做了修改。(⊙o⊙)…
+=======
+我又一次在远程做了修改
+>>>>>>> 09adf2de0471102ec0da6bf8cebdb33aa23f26ef
