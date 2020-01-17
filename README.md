@@ -10,3 +10,5 @@ this is my git exercise repository
 我又一次来远程仓库修改readme.md文件
 
 我在本地做了修改，又在远程创建了一个新文件。
+
+刚刚变基失败。再来一次
